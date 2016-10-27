@@ -1,3 +1,14 @@
 html{
-	background-color: #efefef;
+	background-color: #283d3b;
+}
+
+h2, p{
+	color: edddd4;
+}
+
+head{
+    box-sizing: border-box;
+    width: 100%;
+    background: #772e25;
+	height:87px;
 }
