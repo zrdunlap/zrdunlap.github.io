@@ -1,3 +1,3 @@
-# zrdunlap.gitub.io
+# zrdunlap.github.io
 
 A work in progress...
