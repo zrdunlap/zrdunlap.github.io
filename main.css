@@ -6,7 +6,7 @@ h2, p{
 	color: edddd4;
 }
 
-head{
+.header{
     box-sizing: border-box;
     width: 100%;
     background: #772e25;
